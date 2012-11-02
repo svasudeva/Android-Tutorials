@@ -1,0 +1,10 @@
+<resources>
+
+    <string name="app_name">list</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_list">List</string>
+    <string name="add_new_item">ADD</string>
+    <string name="remove_item">REMOVE</string>
+
+</resources>
